@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/LaughALot/static/css/main.e38f7342.chunk.css",
+    "main.js": "/LaughALot/static/js/main.55d09051.chunk.js",
+    "main.js.map": "/LaughALot/static/js/main.55d09051.chunk.js.map",
+    "runtime-main.js": "/LaughALot/static/js/runtime-main.04068337.js",
+    "runtime-main.js.map": "/LaughALot/static/js/runtime-main.04068337.js.map",
+    "static/js/2.322daa29.chunk.js": "/LaughALot/static/js/2.322daa29.chunk.js",
+    "static/js/2.322daa29.chunk.js.map": "/LaughALot/static/js/2.322daa29.chunk.js.map",
+    "index.html": "/LaughALot/index.html",
+    "precache-manifest.b50295a17374dc6a7df080c7bdd833c9.js": "/LaughALot/precache-manifest.b50295a17374dc6a7df080c7bdd833c9.js",
+    "service-worker.js": "/LaughALot/service-worker.js",
+    "static/css/main.e38f7342.chunk.css.map": "/LaughALot/static/css/main.e38f7342.chunk.css.map",
+    "static/js/2.322daa29.chunk.js.LICENSE.txt": "/LaughALot/static/js/2.322daa29.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.04068337.js",
+    "static/js/2.322daa29.chunk.js",
+    "static/css/main.e38f7342.chunk.css",
+    "static/js/main.55d09051.chunk.js"
+  ]
+}
